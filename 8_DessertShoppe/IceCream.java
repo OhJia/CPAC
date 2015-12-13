@@ -1,12 +1,11 @@
 /*************************************************
-* Ice Cream Class						     	 *	 
-* 											     *
-* Derived from DessertItem class. 				 *
-* Provide method to get the cost.                *
-* 												 *
-* Written by Jiashan Wu   						 *
-* Date: November 15, 2015  						 *
-* NYU ID: N15996627  							 *
+* Ice Cream Class						     	 	 
+* 											     
+* Derived from DessertItem class. 				 
+* Provide method to get the cost.                
+* 												 
+* Written by Jiashan Wu   						 
+* Date: November 15, 2015  						 
 *************************************************/
 
 import java.lang.Math;

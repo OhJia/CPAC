@@ -1,12 +1,11 @@
 /*************************************************
-* Sundae Class						     	     *	 
-* 											     *
-* Derived from IceCream class. Provide methods   *
-* to get the cost and get the ice cream name.    *
-* 												 *
-* Written by Jiashan Wu   						 *
-* Date: November 15, 2015  						 *
-* NYU ID: N15996627  							 *
+* Sundae Class						     	     	 
+* 											     
+* Derived from IceCream class. Provide methods   
+* to get the cost and get the ice cream name.    
+* 												 
+* Written by Jiashan Wu   						 
+* Date: November 15, 2015  						 
 *************************************************/
 
 import java.lang.Math;

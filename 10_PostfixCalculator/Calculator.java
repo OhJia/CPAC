@@ -1,15 +1,14 @@
 /*************************************************
-* Postfix Calculator					     	 *	 
-* 											     *
-* Prompt user for an infix expression, and       *
-* convert it to postfix expression with an       *
-* instance of Converter class. Evaluate the      *
-* postfix expression, print the converted        *
-* postfix expression, and evaluated answer.	     *	
-*											     *
-* Written by Jiashan Wu   						 *
-* Date: December 4, 2015  						 *
-* NYU ID: N15996627  							 *
+* Postfix Calculator					     	 	 
+* 											     
+* Prompt user for an infix expression, and       
+* convert it to postfix expression with an       
+* instance of Converter class. Evaluate the      
+* postfix expression, print the converted        
+* postfix expression, and evaluated answer.	     	
+*											     
+* Written by Jiashan Wu   						 
+* Date: December 4, 2015  						 							 *
 *************************************************/
 
 import java.util.ArrayList;

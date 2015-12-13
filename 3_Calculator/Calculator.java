@@ -6,7 +6,6 @@
 
 * Written by Jiashan Wu
 * Date: September 23, 2015
-* NYU ID: N15996627
 ****************************************/
 
 import java.util.Scanner; 

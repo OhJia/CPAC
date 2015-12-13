@@ -1,18 +1,17 @@
 /*************************************************
-* CAR CLASS							     		 *
-* Creates a Car class. The constructor takes     *
-* index number as argument and assigns color     *
-* location (x, y), and ignition state.           *
-* Static methods for moving instance of Car      * 
-* horizontally and vertically, changing ignition * 
-* state, getting color, ignition state, 		 * 
-* x position, and y position. 					 * 
-* toString method calls get methods and returns  * 
-* a string of concatenated information for Car.  * 
-*												 *
-* Written by Jiashan Wu   						 *
-* Date: November 5, 2015  						 *
-* NYU ID: N15996627  							 *
+* CAR CLASS							     		 
+* Creates a Car class. The constructor takes     
+* index number as argument and assigns color     
+* location (x, y), and ignition state.           
+* Static methods for moving instance of Car       
+* horizontally and vertically, changing ignition  
+* state, getting color, ignition state, 		  
+* x position, and y position. 					  
+* toString method calls get methods and returns   
+* a string of concatenated information for Car.   
+*												 
+* Written by Jiashan Wu   						 
+* Date: November 5, 2015  						 
 *************************************************/
 
 public class Car {

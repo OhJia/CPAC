@@ -1,15 +1,14 @@
 /*************************************************
-* Game of Life						     	     *	 
-* 											     *
-* Read initial world from a file and repeatedly  *
-* generate new generations based on rules from   *
-* the Game of Life. Program terminates when the  *
-* world is empty, the new generation is the      *
-* same as the last one, or when the user types x *       
-*												 *
-* Written by Jiashan Wu   						 *
-* Date: December 4, 2015  						 *
-* NYU ID: N15996627  							 *
+* Game of Life						     	     	 
+* 											     
+* Read initial world from a file and repeatedly  
+* generate new generations based on rules from   
+* the Game of Life. Program terminates when the  
+* world is empty, the new generation is the      
+* same as the last one, or when the user types x        
+*												 
+* Written by Jiashan Wu   						 
+* Date: December 4, 2015  						 
 *************************************************/
 
 import java.util.Scanner;

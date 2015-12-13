@@ -1,12 +1,11 @@
 /****************************************************
-* TestSmallInt  							        *
-* Ask user for input, and use input to test         *
-* class SmallInt, print input as decimal,           *
-* binary, and hexidecimal                           *
-*											        *
-* Written by Jiashan Wu   						    *
-* Date: October 28, 2015  						    *
-* NYU ID: N15996627  							    *
+* TestSmallInt  							        
+* Ask user for input, and use input to test         
+* class SmallInt, print input as decimal,           
+* binary, and hexidecimal                           
+*											        
+* Written by Jiashan Wu   						    
+* Date: October 28, 2015  						    
 ****************************************************/
 
 import java.util.Scanner;

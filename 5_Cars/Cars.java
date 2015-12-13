@@ -1,14 +1,13 @@
 /*************************************************
-* CARS 										     *
-* Set ignition state, color, and (x,y) for car,  *
-* then ask user for action: turn the ignition    *
-* on and off, or move the car horizontally or    *
-* vertically. Display car information and        *
-* current (x,y) on 20x20 grid after each action. * 
-*												 *
-* Written by Jiashan Wu   						 *
-* Date: October 8, 2015  						 *
-* NYU ID: N15996627  							 *
+* CARS 										     
+* Set ignition state, color, and (x,y) for car,  
+* then ask user for action: turn the ignition    
+* on and off, or move the car horizontally or    
+* vertically. Display car information and        
+* current (x,y) on 20x20 grid after each action.  
+*												 
+* Written by Jiashan Wu   						 
+* Date: October 8, 2015  						 
 *************************************************/
 
 import java.util.Scanner;

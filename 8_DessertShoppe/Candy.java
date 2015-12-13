@@ -1,13 +1,12 @@
 /*************************************************
-* Candy Class						     	     *	 
-* 											     *
-* Derived from DessertItem class. 				 *
-* Provide methods to get the cost, get the       *
-* weight of candy, and get the price (/lb.)      *	
-*											     *
-* Written by Jiashan Wu   						 *
-* Date: November 15, 2015  						 *
-* NYU ID: N15996627  							 *
+* Candy Class						     	     	 
+* 											     
+* Derived from DessertItem class. 				 
+* Provide methods to get the cost, get the       
+* weight of candy, and get the price (/lb.)      	
+*											     
+* Written by Jiashan Wu   						 
+* Date: November 15, 2015  						 
 *************************************************/
 
 import java.lang.Math;

@@ -1,13 +1,12 @@
 /*************************************************
-* Cookie Class						     	     *	 
-* 											     *
-* Derived from DessertItem class. 				 *
-* Provide methods to get the cost, get the       *
-* number of cookies, and get the price (/dz.)    *	
-*											     *
-* Written by Jiashan Wu   						 *
-* Date: November 15, 2015  						 *
-* NYU ID: N15996627  							 *
+* Cookie Class						     	     	 
+* 											     
+* Derived from DessertItem class. 				 
+* Provide methods to get the cost, get the       
+* number of cookies, and get the price (/dz.)    	
+*											     
+* Written by Jiashan Wu   						 
+* Date: November 15, 2015  						 
 *************************************************/
 
 import java.lang.Math;

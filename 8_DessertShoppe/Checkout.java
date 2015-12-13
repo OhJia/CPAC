@@ -1,13 +1,12 @@
 /*************************************************
-* Checkout Class						     	 *	 
-* 											     *
-* Provide methods to enter items, clear, get     *
-* the number of items, get the total cost,       *
-* get the total tax, and get a receipt.          *
-*												 *
-* Written by Jiashan Wu   						 *
-* Date: November 15, 2015  						 *
-* NYU ID: N15996627  							 *
+* Checkout Class						     	 	 
+* 											     
+* Provide methods to enter items, clear, get     
+* the number of items, get the total cost,       
+* get the total tax, and get a receipt.          
+*												 
+* Written by Jiashan Wu   						 
+* Date: November 15, 2015  						 
 *************************************************/
 
 import java.lang.Math;

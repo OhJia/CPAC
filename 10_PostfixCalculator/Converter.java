@@ -1,12 +1,11 @@
 /*************************************************
-* Converter Class					     	     *	 
-* 											     *
-* Take an infix expression and convert it to     *
-* a postfix expression.                          *
-*												 *
-* Written by Jiashan Wu   						 *
-* Date: December 12, 2015  						 *
-* NYU ID: N15996627  							 *
+* Converter Class					     	     	 
+* 											     
+* Take an infix expression and convert it to     
+* a postfix expression.                          
+*												 
+* Written by Jiashan Wu   						 
+* Date: December 12, 2015  						 
 *************************************************/
 
 import java.util.ArrayList;

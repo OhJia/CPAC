@@ -1,13 +1,12 @@
 /*************************************************
-* Token Class					     	         *	 
-* 											     *
-* Takes a string and checks whether the element  *
-* is an operand, a parenthesis, or operator.     *
-* If it's an operator, assign precedence.        *                
-*												 *
-* Written by Jiashan Wu   						 *
-* Date: December 12, 2015  						 *
-* NYU ID: N15996627  							 *
+* Token Class					     	         	 
+* 											     
+* Takes a string and checks whether the element  
+* is an operand, a parenthesis, or operator.     
+* If it's an operator, assign precedence.                        
+*												 
+* Written by Jiashan Wu   						
+* Date: December 12, 2015  						 
 *************************************************/
 
 public class Token{

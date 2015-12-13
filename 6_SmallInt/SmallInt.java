@@ -1,12 +1,11 @@
 /****************************************************
-* SmallInt class 							        *
-* Stores input value, checks whether within range   *
-* Generates decimal, binary, and hexidecimal values *
-* and return as Strings                             *
-*												    *
-* Written by Jiashan Wu   						    *
-* Date: October 28, 2015  						    *
-* NYU ID: N15996627  							    *
+* SmallInt class 							        
+* Stores input value, checks whether within range   
+* Generates decimal, binary, and hexidecimal values 
+* and return as Strings                             
+*												    
+* Written by Jiashan Wu   						    
+* Date: October 28, 2015  						    
 ****************************************************/
 
 public class SmallInt {
